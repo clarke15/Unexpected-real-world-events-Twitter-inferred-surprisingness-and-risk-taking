@@ -1,0 +1,102 @@
+,msa,county,population
+0,sfbay,alameda,1515136.0
+1,sfbay,contra costa,1052047.0
+2,la,los angeles,9840024.0
+3,sfbay,marin,252759.0
+4,sfbay,napa,136644.0
+5,la,orange,3021840.0
+6,la,riverside,2192982.0
+7,sfbay,san benito,55467.0
+8,la,san bernardino,2041029.0
+9,sfbay,san francisco,807755.0
+10,sfbay,san joaquin,687036.0
+11,sfbay,san mateo,721183.0
+12,sfbay,santa clara,1788393.0
+13,sfbay,solano,414209.0
+14,sfbay,sonoma,483456.0
+15,la,ventura,822794.0
+16,boston,windham,118046.0
+17,philadelphia,new castle,539665.0
+18,chicago,cook,5197677.0
+19,chicago,dekalb,104820.0
+20,chicago,dupage,918608.0
+21,chicago,grundy,49870.0
+22,chicago,kane,514891.0
+23,chicago,kendall,114226.0
+24,chicago,lake,701282.0
+25,chicago,mchenry,308163.0
+26,chicago,will,677669.0
+27,chicago,jasper,33369.0
+28,chicago,lake,495230.0
+29,chicago,newton,14199.0
+30,chicago,porter,164386.0
+31,philadelphia,cecil,101109.0
+32,boston,barnstable,216021.0
+33,boston,bristol,548739.0
+34,boston,essex,744961.0
+35,boston,middlesex,1507558.0
+36,boston,norfolk,672078.0
+37,boston,plymouth,495407.0
+38,boston,suffolk,724502.0
+39,boston,worcester,799277.0
+40,boston,belknap,60206.0
+41,boston,hillsborough,401101.0
+42,boston,merrimack,146742.0
+43,boston,rockingham,295872.0
+44,boston,strafford,123295.0
+45,nyc_metro,bergen,906781.0
+46,philadelphia,burlington,449117.0
+47,philadelphia,camden,513660.0
+48,nyc_metro,essex,783840.0
+49,philadelphia,gloucester,288187.0
+50,nyc_metro,hudson,636194.0
+51,nyc_metro,hunterdon,127996.0
+52,nyc_metro,middlesex,811064.0
+53,nyc_metro,monmouth,629263.0
+54,nyc_metro,morris,493472.0
+55,nyc_metro,ocean,575961.0
+56,nyc_metro,passaic,500168.0
+57,philadelphia,salem,66007.0
+58,nyc_metro,somerset,323650.0
+59,nyc_metro,sussex,148962.0
+60,nyc_metro,union,536383.0
+61,nyc,bronx,1386364.0
+62,nyc_metro,bronx,1386364.0
+63,nyc_metro,dutchess,297291.0
+64,nyc,kings,2512740.0
+65,nyc_metro,kings,2512740.0
+66,nyc_metro,nassau,1338712.0
+67,nyc,new york,1596735.0
+68,nyc_metro,new york,1596735.0
+69,nyc_metro,orange,372951.0
+70,nyc_metro,putnam,99702.0
+71,nyc,queens,2235008.0
+72,nyc_metro,queens,2235008.0
+73,nyc,richmond,468374.0
+74,nyc_metro,richmond,468374.0
+75,nyc_metro,rockland,312011.0
+76,nyc_metro,suffolk,1492360.0
+77,nyc_metro,westchester,950227.0
+78,philadelphia,bucks,625485.0
+79,philadelphia,chester,499548.0
+80,philadelphia,delaware,558874.0
+81,philadelphia,montgomery,799886.0
+82,philadelphia,philadelphia,1525811.0
+83,boston,bristol,49796.0
+84,boston,kent,166066.0
+85,boston,newport,82503.0
+86,boston,providence,627414.0
+87,boston,washington,126692.0
+88,dfw,collin,788580.0
+89,dfw,dallas,2379214.0
+90,dfw,denton,667934.0
+91,dfw,ellis,149712.0
+92,dfw,hood,51161.0
+93,dfw,hunt,85955.0
+94,dfw,johnson,151174.0
+95,dfw,kaufman,103385.0
+96,dfw,parker,116820.0
+97,dfw,rockwall,78749.0
+98,dfw,tarrant,1814667.0
+99,dfw,wise,59351.0
+100,chicago,kenosha,166373.0
