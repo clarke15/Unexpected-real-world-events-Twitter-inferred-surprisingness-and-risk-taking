@@ -1,0 +1,8 @@
+aggregate_regressions_input_7: This is the final dataset, all 366 days including all sentiment analysis variables. 
+
+aggregate_regressions_input_no_zero: Dataset that excludes days on which there was zero prediction errors.
+
+only_pos_days: Includes only days when there are positive sports prediction errors.
+
+only_neg_days: Includes only days when there are negative sports prediction errors.
+
