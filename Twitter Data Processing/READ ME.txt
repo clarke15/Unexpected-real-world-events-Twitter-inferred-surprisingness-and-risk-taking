@@ -1,0 +1,40 @@
+Description of python files and notebooks:
+
+
+.py files:
+
+_1_get_vader_scores: Pre-processing and sentiment analysis using VADER
+_2_get_pysent_compound_score: Return encoded 'compound' sentiment scores from a dataframe of pysent sent scores
+_2_get_pysent_scores: Pre-processes tweets and carries out sentiment analysis using pysentimiento
+_3_get_prediction_errors: Function that creates prediction errors given a daily mean values
+_4_get_distilbert_pe_csv: Returns the daily mean and prediction errors of distilbert sentiment scores
+_4_get_pos_neu_pysent_pe_csv: Filters the psyent sentiment output to exclude "NEG" sentiment and then output mean and prediction errors.
+_4_get_pysent_pe_csv: Takes pysent sentiment score data as input, outputs daily mean and prediction errors.
+_4_get_roberta_pe_csv: Takes roberta sentiment score data as input, outputs daily mean (and prediction errors which aren't used).
+_4_get_vader_pe_csv: Takes VADER sentiment score data as input, outputs daily mean and prediction errors.
+
+
+.pynb files
+ 
+1.1. Pre-processing data: Running pre-processing on twitter data
+2.1 Roberta Mood_Google: Ran using Google Collab - Outputs Roberta surprise scores 
+2.1 Get pysent scores GOOGLE: Ran using Google Collabe - Outputs pysent sentiment scores
+2.1 Get Distilbert Mood GOOGLE: Ran using Google Collab - Outputs Distilbert surprise scores
+4. Get Distilbert PE csv: Outputs the daily mean surprise scores
+4. Get pysent PE csv: Ouputs the prediction errors and mean daily pysent scores
+4. Get Roberta csv: Outputs the mean daily surprise scores from roberta
+4. Get VADER PE scores: Carries out VADER sentiment analysis + Outputs mean daily sentiment and prediction errors
+5. Import all data into master data: Groups data together into one data frame (includes sales by ZIP codes, so is not the final dataframe...)
+5.2 Nuisance variables: Outputs a dataframe with all data including nuisance variables that is inputted into 5.3...
+5.3 Aggregating regression input data: Final step in cleaning/data wrangling. Outputs data ready for us in R regressions. 
+
+EDA of Tweets (counts): EDA of dataset, finding distirbutions of tweets
+Further Analysis Data Prep: Includes creating new dataframes for days with positive and negative sporst prediction errors and creating pysen sentiment scores that relate to only POS and NEU sentiment. 
+Merging_team_tweets: Used to merge together twitter dataframes that were split into months - converted into yearly.
+Plots: Plots to include in final report
+
+
+
+
+ 
+
